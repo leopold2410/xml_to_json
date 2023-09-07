@@ -1,0 +1,6 @@
+<locations>
+    <location name="Seattle" state="WA"/>
+    <location name="New York" state="NY"/>
+    <location name="Bellevue" state="WA"/>
+    <location name="Olympia" state="WA"/>
+</locations>

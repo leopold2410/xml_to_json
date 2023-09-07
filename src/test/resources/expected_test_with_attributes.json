@@ -1,0 +1,80 @@
+{
+  "product" : {
+    "description" : "Cardigan Sweater",
+    "product_image" : "cardigan.jpg",
+    "catalog_item" : [ {
+      "gender" : "Men's",
+      "item_number" : "QWZ5671",
+      "price" : "39.95",
+      "size" : [ {
+        "description" : "Medium",
+        "color_swatch" : [ {
+          "image" : "red_cardigan.jpg",
+          "" : "Red"
+        }, {
+          "image" : "burgundy_cardigan.jpg",
+          "" : "Burgundy"
+        } ]
+      }, {
+        "description" : "Large",
+        "color_swatch" : [ {
+          "image" : "red_cardigan.jpg",
+          "" : "Red"
+        }, {
+          "image" : "burgundy_cardigan.jpg",
+          "" : "Burgundy"
+        } ]
+      } ]
+    }, {
+      "gender" : "Women's",
+      "item_number" : "RRX9856",
+      "price" : "42.50",
+      "size" : [ {
+        "description" : "Small",
+        "color_swatch" : [ {
+          "image" : "red_cardigan.jpg",
+          "" : "Red"
+        }, {
+          "image" : "navy_cardigan.jpg",
+          "" : "Navy"
+        }, {
+          "image" : "burgundy_cardigan.jpg",
+          "" : "Burgundy"
+        } ]
+      }, {
+        "description" : "Medium",
+        "color_swatch" : [ {
+          "image" : "red_cardigan.jpg",
+          "" : "Red"
+        }, {
+          "image" : "navy_cardigan.jpg",
+          "" : "Navy"
+        }, {
+          "image" : "burgundy_cardigan.jpg",
+          "" : "Burgundy"
+        }, {
+          "image" : "black_cardigan.jpg",
+          "" : "Black"
+        } ]
+      }, {
+        "description" : "Large",
+        "color_swatch" : [ {
+          "image" : "navy_cardigan.jpg",
+          "" : "Navy"
+        }, {
+          "image" : "black_cardigan.jpg",
+          "" : "Black"
+        } ]
+      }, {
+        "description" : "Extra Large",
+        "color_swatch" : [ {
+          "image" : "burgundy_cardigan.jpg",
+          "" : "Burgundy"
+        }, {
+          "image" : "black_cardigan.jpg",
+          "" : "Black"
+        } ]
+      } ]
+    } ]
+  }
+}
